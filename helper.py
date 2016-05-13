@@ -1,5 +1,4 @@
 from hand_series import HandSeries
-import os
 
 def load_hand_series_from_folder(folder_name,hand_side):
 	"""
